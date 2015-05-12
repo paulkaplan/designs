@@ -1,0 +1,20 @@
+{
+  "name": "designs",
+  "version": "0.0.0",
+  "description": "parametric designs with javascript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/coffee --bare -o build src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paulkaplan/designs.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "gitHead": "1c2e694a8c06ee0295ccd1e394e04257658f76a2",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "coffee-script": "~1.9.2"
+  }
+}
